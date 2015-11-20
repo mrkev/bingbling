@@ -1,0 +1,16 @@
+{
+  "name": "bingbling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "random-word": "^1.0.2",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Chavez <keh222@cornell.edu> (http://thatkevin.tk)",
+  "license": "ISC"
+}
